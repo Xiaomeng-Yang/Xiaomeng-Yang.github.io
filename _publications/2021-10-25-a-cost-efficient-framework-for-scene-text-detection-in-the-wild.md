@@ -1,7 +1,7 @@
 ---
 title: "A Cost-Efficient Framework for Scene Text Detection in the Wild."
 collection: publications
-permalink: /publication/2021-10-25-paper-a-cost-efficient-framework-for-scene-text-detection-in-the-wild
+permalink: /publication/2021-10-25-a-cost-efficient-framework-for-scene-text-detection-in-the-wild
 excerpt: 'Training deep text detection models needs large amounts of annotations such as bounding boxes and quadrangles, which is laborious and expensive.
 Although synthetic data is easier to acquire, the model trained on this data has large performance gap with that trained on real data because of domain shift.
 To address this problem, we propose a novel two-stage framework for cost-efficient scene text detection.
