@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Educational Data Mining: Discovering Principal Factors for Better Academic Performance"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2021-BDET-paper-Educational-Data-Mining
+excerpt: 'The objective of this study is to use Educational Data Mining (EDM) techniques to discover principal factors that affect students’ academic performance. We crawled a dataset from the China Education Panel Survey (CEPS) with 10,279 samples, then by clustering student-related and parents-related variables into three categories: demographic and family background information (Demographic), self-perceived willingness for education (Willingness), perceived family interaction (Interaction), we implemented various EDM methodologies such as linear regression, regression tree, and random forest on the dataset. As the first attempt to conduct a comprehensive and quantitative investigation into the principal factors that influence Chinese junior high school students’ academic performance on a nationally representative survey, this study not only summarizes, explains, and compares different principal factors discovered by different EDM techniques, but also provides some insight for mitigating China’s educational inequality.'
+date: January 2021
+venue: 'BDET 2021'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3474944.3474945'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The objective of this study is to use Educational Data Mining (EDM) techniques to discover principal factors that affect students’ academic performance. We crawled a dataset from the China Education Panel Survey (CEPS) with 10,279 samples, then by clustering student-related and parents-related variables into three categories: demographic and family background information (Demographic), self-perceived willingness for education (Willingness), perceived family interaction (Interaction), we implemented various EDM methodologies such as linear regression, regression tree, and random forest on the dataset. As the first attempt to conduct a comprehensive and quantitative investigation into the principal factors that influence Chinese junior high school students’ academic performance on a nationally representative survey, this study not only summarizes, explains, and compares different principal factors discovered by different EDM techniques, but also provides some insight for mitigating China’s educational inequality.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://dl.acm.org/doi/abs/10.1145/3474944.3474945)
