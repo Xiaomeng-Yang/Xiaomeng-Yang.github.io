@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+**You can download my cv [here]().**
 
 Education
 ======
@@ -15,6 +16,16 @@ Education
 * B.S. in Computer Engineering (with Honors), University of Illinois at Urbana-Champaign, 2017-2021
 * B.E. in Electronics and Computer Engineering, Zhejiang University, 2017-2021
 
+Publications
+======
+* PIMNet++: A Parallel, Iterative and Diffusion-Based Network for Scene Text Recognition. Work in Progress, 2023.
+* **Xiaomeng Yang**, Zhi Qiao, Yu Zhou, Jin Wei, Yuan Ye, Zhilong Ji, Dongbao Yang, Weiping Wang. Masked and Permuted Implicit Context Learning for Scene Text Recognition. Under Review, 2023.
+* **Xiaomeng Yang**, Dongbao Yang, Zhi Qiao, Yu Zhou. Accurate and Robust Scene Text Recognition via Adversarial
+Training. Under Review, 2023.
+* Gangyan Zeng, Yuan Zhang, Yu Zhou, **Xiaomeng Yang**, Ning Jiang, Guoqing Zhao, Weiping Wang, Xu-Cheng Yin. Beyond OCR+VQA: Towards End-to-End Reading and Reasoning for Robust and Accurate TextVQA. In PR, 2023.
+* Gangyan Zeng, Yuan Zhang, Yu Zhou, **Xiaomeng Yang**. Beyond OCR+VQA: Involving OCR into the Flow for Robust and Accurate TextVQA. In ACM MM, 2021. (Oral Presentation)
+* Gangyan Zeng, Yuan Zhang, Yu Zhou, **Xiaomeng Yang**. A Cost-Efficient Framework for Scene Text Detection in the Wild. In PRICAI, 2021.
+* Yucheng Jin, **Xiaomeng Yang**, Chengting Yu, Liangjing Yang. Educational Data Mining: Discovering Principal Factors for Better Academic Performance. In BDET, 2021.
 
 Work experience
 ======
@@ -27,7 +38,7 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * Skill 1
@@ -36,24 +47,6 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
