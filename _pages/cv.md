@@ -12,13 +12,13 @@ redirect_from:
 
 Education
 ======
-* M.S in Computer Science, University of Chinese Academy of Sciences, 2021-2024 (expected)
-* B.S. in Computer Engineering (with Honors), University of Illinois at Urbana-Champaign, 2017-2021
-* B.E. in Electronics and Computer Engineering, Zhejiang University, 2017-2021
+* M.S in Computer Science, University of Chinese Academy of Sciences (UCAS), 2021-2024 (expected)
+* B.S. in Computer Engineering (with Honors), University of Illinois at Urbana-Champaign (UIUC), 2017-2021
+* B.E. in Electronics and Computer Engineering, Zhejiang University (ZJU), 2017-2021
 
 Publications
 ======
-* PIMNet++: A Parallel, Iterative and Diffusion-Based Network for Scene Text Recognition. Work in Progress, 2023.
+* PIMNet++: A Parallel, Iterative and Diffusion-Based Network for Scene Text Recognition.
 * **Xiaomeng Yang**, Zhi Qiao, Yu Zhou, Jin Wei, Yuan Ye, Zhilong Ji, Dongbao Yang, Weiping Wang. Masked and Permuted Implicit Context Learning for Scene Text Recognition. Under Review, 2023.
 * **Xiaomeng Yang**, Dongbao Yang, Zhi Qiao, Yu Zhou. Accurate and Robust Scene Text Recognition via Adversarial
 Training. Under Review, 2023.
@@ -27,26 +27,25 @@ Training. Under Review, 2023.
 * Gangyan Zeng, Yuan Zhang, Yu Zhou, **Xiaomeng Yang**. A Cost-Efficient Framework for Scene Text Detection in the Wild. In PRICAI, 2021.
 * Yucheng Jin, **Xiaomeng Yang**, Chengting Yu, Liangjing Yang. Educational Data Mining: Discovering Principal Factors for Better Academic Performance. In BDET, 2021.
 
-Work experience
+Reseach Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Linguistic Information Enhanced Scene Text Recognition
+  * Explored the relationship between the visual features and text information in scene text recognition
+  * Proposed a framework for autoregressive decoding using masked, permuted implicit context learning and length supervision. Enhanced model robustness against length prediction errors through perturbation training. Our approach outperformed on challenging benchmarks. This work resulted in a top-tier conference submission.
+  * Explored non-autoregressive decoding in scene text recognition as image-based conditional text generation. Utilized discrete diffusion with a small transformer decoder and easy-first decoding for enhanced bidirectional context awareness. The manuscript is completed for submission to a top-tier journal.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Involving OCR into the Flow of TextVQA
+  * Developed two accurate TextVQA models by integrating OCR into the process.
+  * In the first scheme, designed a reading modification module for adaptive answer selection based on context. Visually enhanced text embedding and semantically oriented object embedding were used to enhance the feature representations. This approach, more robust to the OCR errors, led to a paper accepted at ACM MM 2021.
+  * In the second scheme, devised an efficient end-to-end network integrating text reading and reasoning, optimized by the downstream VQA signal. The approach outperformed existing alternatives in accuracy and robustness. This research led to a publication in Pattern Recognition 2023.
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Language skill:** TOEFL 103 (Speaking 22)
+* **Computer skills: Programming languages:** Python, Java, , C/C++, JavaScript, HTML/CSS
+* **Other Library and Tools:** Numpy, Scipy, Cython, PyTorch, Tensroflow, Linux, Git
+* **Libraries:** NumPy, Matplotlib
+
   
 Service and leadership
 ======
