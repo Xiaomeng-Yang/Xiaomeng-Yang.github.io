@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Xiaomeng Yang (Rachel) / Welcome"
 title_separator          : "-"
-name                     : &name "Xiaomeng Yang"
+name                     : &name "Xiaomeng Yang (杨晓萌)"
 description              : &description "personal description"
 url                      : https://Xiaomeng-Yang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiaomeng-Yang"
   avatar           : "profile.png"
-  bio              : "A final-year M.S. student at IIE, University of Chinese Academy of Sciences."
+  bio              : "A final-year master student at IIE, Chinese Academy of Sciences."
   location         : "Beijing, China"
   employer         :
   pubmed           :
