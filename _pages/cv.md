@@ -13,9 +13,8 @@ redirect_from:
 Education
 ======
 * <p style="text-align:left;">M.S in Computer Science, University of Chinese Academy of Sciences (UCAS)<span style="float:right;">2021-2024 (expected)</span></p>
-* M.S in Computer Science, University of Chinese Academy of Sciences (UCAS), 2021-2024 (expected)
-* B.S. in Computer Engineering (with Honors), University of Illinois at Urbana-Champaign (UIUC), 2017-2021
-* B.E. in Electronics and Computer Engineering, Zhejiang University (ZJU), 2017-2021
+* <p style="text-align:left;">B.S. in Computer Engineering (with Honors), University of Illinois at Urbana-Champaign (UIUC)<span style="float:right;">2017-2021</span></p>
+* <p style="text-align:left;">B.E. in Electronics and Computer Engineering, Zhejiang University (ZJU)<span style="float:right;">2017-2021</span></p>
 
 Publications
 ======
@@ -30,8 +29,8 @@ Training. Under Review, 2023.
 
 Reseach Experience
 ======
-* **Linguistic Information Enhanced Scene Text Recognition**
-  * UCAS | Rsearch Assis
+* <p style="text-align:left;">**Linguistic Information Enhanced Scene Text Recognition**<span style="float:right;">Jun. 2022 – Present</span></p>
+  * UCAS | Research Assistant, Advisor: Prof. Yu Zhou
   * Explored the relationship between the visual features and text information in scene text recognition
   * Proposed a framework for autoregressive decoding using masked, permuted implicit context learning and length supervision. Enhanced model robustness against length prediction errors through perturbation training. Our approach outperformed on challenging benchmarks. This work resulted in a top-tier conference submission.
   * Explored non-autoregressive decoding in scene text recognition as image-based conditional text generation. Utilized discrete diffusion with a small transformer decoder and easy-first decoding for enhanced bidirectional context awareness. The manuscript is completed for submission to a top-tier journal.
