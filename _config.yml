@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaomeng Yang (Rachel) / Welcome"
+title                    : "Xiaomeng Yang (Rachel)"
 title_separator          : "-"
 name                     : &name "Xiaomeng Yang (杨晓萌)"
 description              : &description "personal description"
