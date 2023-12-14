@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-**You can download my cv here: [Xiaomeng’s Curriculum Vitae](http://Xiaomeng-Yang.github.io/files/Curriculum_Vitae.pdf).**
+**You can download my cv here: [Xiaomeng’s Curriculum Vitae](http://Xiaomeng-Yang.github.io/files/CV_Xiaomeng-Yang.pdf).**
 
 Education
 ======
