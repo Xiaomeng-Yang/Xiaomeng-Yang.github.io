@@ -12,16 +12,15 @@ redirect_from:
 
 Education
 ======
-* <p style="text-align:left;">M.S in Computer Science, University of Chinese Academy of Sciences (UCAS)<span style="float:right;">2021-2024 (expected)</span></p>
+* <p style="text-align:left;">M.S in Computer Application Technology, University of Chinese Academy of Sciences (UCAS)<span style="float:right;">2021-2024 (expected)</span></p>
 * <p style="text-align:left;">B.S. in Computer Engineering (with Honors), University of Illinois at Urbana-Champaign (UIUC)<span style="float:right;">2017-2021</span></p>
-* <p style="text-align:left;">B.E. in Electronics and Computer Engineering, Zhejiang University (ZJU)<span style="float:right;">2017-2021</span></p>
+* <p style="text-align:left;">B.E. in Electronic and Computer Engineering, Zhejiang University (ZJU)<span style="float:right;">2017-2021</span></p>
 
-Publications
+Publications & Manuscripts
 ======
-* PIMNet++: A Parallel, Iterative and Diffusion-Based Network for Scene Text Recognition.
-* **Xiaomeng Yang**, Zhi Qiao, Yu Zhou, Jin Wei, Yuan Ye, Zhilong Ji, Dongbao Yang, Weiping Wang. Masked and Permuted Implicit Context Learning for Scene Text Recognition. Under Review, 2023.
-* **Xiaomeng Yang**, Dongbao Yang, Zhi Qiao, Yu Zhou. Accurate and Robust Scene Text Recognition via Adversarial
-Training. Under Review, 2023.
+* **Xiaomeng Yang**, Zhi Qiao, Yu Zhou, Weiping Wang. IPAD: A Parallel, Iterative and Diffusion-Based Network for Scene Text Recognition. In Preparation.
+* Xiaomeng Yang, Zhi Qiao, Jin Wei, Dongbao Yang, Yu Zhou. Masked and Permuted Implicit Context Learning for Scene Text Recognition. Under Review.
+* **Xiaomeng Yang**, Dongbao Yang, Zhi Qiao, Yu Zhou. Accurate and Robust Scene Text Recognition via Adversarial Training. Accepted by ICASSP, 2024.
 * Gangyan Zeng, Yuan Zhang, Yu Zhou, **Xiaomeng Yang**, Ning Jiang, Guoqing Zhao, Weiping Wang, Xu-Cheng Yin. Beyond OCR+VQA: Towards End-to-End Reading and Reasoning for Robust and Accurate TextVQA. In PR, 2023.
 * Gangyan Zeng, Yuan Zhang, Yu Zhou, **Xiaomeng Yang**. Beyond OCR+VQA: Involving OCR into the Flow for Robust and Accurate TextVQA. In ACM MM, 2021. (Oral Presentation)
 * Gangyan Zeng, Yuan Zhang, Yu Zhou, **Xiaomeng Yang**. A Cost-Efficient Framework for Scene Text Detection in the Wild. In PRICAI, 2021.
@@ -50,14 +49,7 @@ Reseach Experience
 
 Skills
 ======
-* **Language skill:** TOEFL 103 (Speaking 22)
-* **Computer skills: Programming languages:** Python, Java, , C/C++, JavaScript, HTML/CSS
-* **Other Library and Tools:** Numpy, Scipy, Cython, PyTorch, Tensroflow, Linux, Git
-* **Libraries:** NumPy, Matplotlib
+* **Language skill:** English: Advanced, Chinese: Native
+* **Programming languages:** Python, C/C++, Java, JavaScript, HTML/CSS
+* **Other Library and Tools:** PyTorch, TensorFlow, Numpy, Scipy, Linux, Git, Arduino, Unity3D
 
-Selected Honors and Awards
-=====
-* Excellent Graduate of Zhejiang University
-* Graduate of UIUC with Honors
-* Academic Excellence Scholarship, ZJU-UIUC Institute, 2018-2019
-* Outstanding Student Leader, Zhejiang University, 2018-2019
