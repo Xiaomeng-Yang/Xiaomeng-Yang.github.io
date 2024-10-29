@@ -30,14 +30,14 @@ Publications & Manuscripts
 Reseach Experience
 ======
 * **Linguistic Information Enhanced Scene Text Recognition**
-  * <p style="text-align:left;"><em>UCAS | Research Assistant, Advisor: Prof. Yu Zhou</em><span style="float:right;">Jun. 2022 – Present</span></p>
-  * <p style="text-align:left;"><em>Tomorrow Advancing Life | Research Internship, Advisor: Zhi Qiao</em><span style="float:right;">Jun. 2022 – Present</span></p>
+  * <p style="text-align:left;"><em>UCAS | Research Assistant, Advisor: Prof. Yu Zhou</em><span style="float:right;">Jun. 2022 – Apr. 2024</span></p>
+  * <p style="text-align:left;"><em>Tomorrow Advancing Life | Research Internship, Advisor: Zhi Qiao</em><span style="float:right;">Jun. 2022 – Apr. 2024</span></p>
+
+* **Adversarial Training for Scene Text Recognition**
+  * <p style="text-align:left;"><em>UCAS | Summer Internship, Advisor: Prof. Yu Zhou</em><span style="float:right;">Mar. 2023 – Aug. 2023</span></p>
 
 * **Involving OCR into the Flow of TextVQA**
   * <p style="text-align:left;"><em>UCAS | Research Assistant, Advisor: Prof. Yu Zhou</em><span style="float:right;">Oct. 2020 – Sep. 2022</span></p>
-
-* **Adversarial Training for Scene Text Recognition**
-  * <p style="text-align:left;"><em>UCAS | Summer Internship, Advisor: Prof. Yu Zhou</em><span style="float:right;">Apr. 2021 – Aug. 2021</span></p>
 
 * **Cost-Efficient Scene Text Detection**
   * <p style="text-align:left;"><em>UCAS | Summer Internship, Advisor: Prof. Yu Zhou</em><span style="float:right;">Mar. 2021 – Jun. 2021</span></p>
