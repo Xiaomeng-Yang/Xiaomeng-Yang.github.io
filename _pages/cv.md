@@ -18,13 +18,13 @@ Education
 
 Publications & Manuscripts
 ======
-* **Xiaomeng Yang**, Zhi Qiao, Yu Zhou, Weiping Wang. IPAD: A Parallel, Iterative and Diffusion-Based Network for Scene Text Recognition. In Preparation.
-* Xiaomeng Yang, Zhi Qiao, Jin Wei, Dongbao Yang, Yu Zhou. Masked and Permuted Implicit Context Learning for Scene Text Recognition. Under Review.
+* **Xiaomeng Yang**, Zhi Qiao, Yu Zhou, Weiping Wang. IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition. Submitted to IJCV, Major Revision.
+* **Xiaomeng Yang**, Zhi Qiao, Jin Wei, Dongbao Yang, Yu Zhou. Masked and Permuted Implicit Context Learning for Scene Text Recognition. In IEEE Signal Processing Letters, 2024.
 * **Xiaomeng Yang**, Dongbao Yang, Zhi Qiao, Yu Zhou. Accurate and Robust Scene Text Recognition via Adversarial Training. Accepted by ICASSP, 2024.
-* Gangyan Zeng, Yuan Zhang, Yu Zhou, **Xiaomeng Yang**, Ning Jiang, Guoqing Zhao, Weiping Wang, Xu-Cheng Yin. Beyond OCR+VQA: Towards End-to-End Reading and Reasoning for Robust and Accurate TextVQA. In PR, 2023.
-* Gangyan Zeng, Yuan Zhang, Yu Zhou, **Xiaomeng Yang**. Beyond OCR+VQA: Involving OCR into the Flow for Robust and Accurate TextVQA. In ACM MM, 2021. (Oral Presentation)
-* Gangyan Zeng, Yuan Zhang, Yu Zhou, **Xiaomeng Yang**. A Cost-Efficient Framework for Scene Text Detection in the Wild. In PRICAI, 2021.
-* Yucheng Jin, **Xiaomeng Yang**, Chengting Yu, Liangjing Yang. Educational Data Mining: Discovering Principal Factors for Better Academic Performance. In BDET, 2021.
+* Gangyan Zeng, Yuan Zhang, Yu Zhou, **Xiaomeng Yang**, Ning Jiang, Guoqing Zhao, Weiping Wang, Xu-Cheng Yin. Beyond OCR+VQA: Towards End-to-End Reading and Reasoning for Robust and Accurate TextVQA. In Pattern Recognition, 2023.
+* Gangyan Zeng, Yuan Zhang, Yu Zhou, **Xiaomeng Yang**. Beyond OCR+VQA: Involving OCR into the Flow for Robust and Accurate TextVQA. Accepted by ACM MM, 2021.
+* Gangyan Zeng, Yuan Zhang, Yu Zhou, **Xiaomeng Yang**. A Cost-Efficient Framework for Scene Text Detection in the Wild. Accepted by PRICAI, 2021.
+* Yucheng Jin, **Xiaomeng Yang**, Chengting Yu, Liangjing Yang. Educational Data Mining: Discovering Principal Factors for Better Academic Performance. Accepted by BDET, 2021.
 
 Reseach Experience
 ======
