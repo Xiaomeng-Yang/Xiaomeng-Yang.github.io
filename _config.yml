@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaomeng Yang (Rachel)"
+title                    : "Xiaomeng Yang"
 title_separator          : "-"
 name                     : &name "Xiaomeng Yang (杨晓萌)"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xiaomeng Yang"
   avatar           : "xmy_profile.jpg"
-  bio              : "A final-year master student at IIE, Chinese Academy of Sciences."
-  location         : "Beijing, China"
+  bio              : "A first-year PhD student at Northeastern University."
+  location         : "Boston, MA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=zVGWO5MAAAAJ&hl=en"
-  email            : "xiaomeng.rachel@gmail.com"
+  email            : "xiaomeng.rachel@gmail.com", "yang.xiaome@northeastern.edu"
   researchgate     :
   uri              :
   bitbucket        :
