@@ -12,7 +12,8 @@ redirect_from:
 
 Education
 ======
-* <p style="text-align:left;">M.S in Computer Application Technology, University of Chinese Academy of Sciences (UCAS)<span style="float:right;">2021-2024 (expected)</span></p>
+* <p style="text-align:left;">Ph.D. in Computer Engineering, Northeastern University<span style="float:right;">2024-2029 (Expected)</span></p>
+* <p style="text-align:left;">M.S in Computer Application Technology, University of Chinese Academy of Sciences (UCAS)<span style="float:right;">2021-2024</span></p>
 * <p style="text-align:left;">B.S. in Computer Engineering (with Honors), University of Illinois at Urbana-Champaign (UIUC)<span style="float:right;">2017-2021</span></p>
 * <p style="text-align:left;">B.E. in Electronic and Computer Engineering, Zhejiang University (ZJU)<span style="float:right;">2017-2021</span></p>
 
