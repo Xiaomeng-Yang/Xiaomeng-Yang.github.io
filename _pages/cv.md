@@ -19,7 +19,7 @@ Education
 
 Publications & Manuscripts
 ======
-* **Xiaomeng Yang**, Zhi Qiao, Yu Zhou, Weiping Wang. IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition. Submitted to IJCV, Major Revision.
+* **Xiaomeng Yang**, Zhi Qiao, Yu Zhou. IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition. Accepted by IJCV, 2025.
 * **Xiaomeng Yang**, Zhi Qiao, Jin Wei, Dongbao Yang, Yu Zhou. Masked and Permuted Implicit Context Learning for Scene Text Recognition. In IEEE Signal Processing Letters, 2024.
 * **Xiaomeng Yang**, Dongbao Yang, Zhi Qiao, Yu Zhou. Accurate and Robust Scene Text Recognition via Adversarial Training. Accepted by ICASSP, 2024.
 * Gangyan Zeng, Yuan Zhang, Yu Zhou, **Xiaomeng Yang**, Ning Jiang, Guoqing Zhao, Weiping Wang, Xu-Cheng Yin. Beyond OCR+VQA: Towards End-to-End Reading and Reasoning for Robust and Accurate TextVQA. In Pattern Recognition, 2023.
