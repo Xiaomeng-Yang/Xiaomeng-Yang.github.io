@@ -17,18 +17,12 @@ Education
 * <p style="text-align:left;">B.S. in Computer Engineering (with Honors), University of Illinois at Urbana-Champaign (UIUC)<span style="float:right;">2017-2021</span></p>
 * <p style="text-align:left;">B.E. in Electronic and Computer Engineering, Zhejiang University (ZJU)<span style="float:right;">2017-2021</span></p>
 
-Publications & Manuscripts
+Selected Publications
 ======
-* **Xiaomeng Yang**∗, Lei Lu∗, Qihui Fan, Changdi Yang, Juyi Lin, Yanzhi Wang, Xuan Zhang, Shangqian Gao. ALTER: All-in-One Layer Pruning and Temporal Expert Routing for Efficient Diffusion Generation. In NeurIPS, 2025.
-* **Xiaomeng Yang**, Jian Gao, Yanzhi Wang, Xuan Zhang. ZEROSIM: Zero-Shot Analog Circuit Evaluation with Unified Transformer Embeddings. In ICCAD, 2025
-* **Xiaomeng Yang**, Zhi Qiao, Yu Zhou. IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition. Accepted by IJCV, 2025.
-* **Xiaomeng Yang**, Zhi Qiao, Jin Wei, Dongbao Yang, Yu Zhou. Masked and Permuted Implicit Context Learning for Scene Text Recognition. In IEEE Signal Processing Letters, 2024.
-* Yifei Zhang, Chang Liu, Jin Wei, **Xiaomeng Yang**, Yu Zhou, Can Ma, Xiangyang Ji. Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition. Accepted by CVPR, 2025.
-* **Xiaomeng Yang**, Dongbao Yang, Zhi Qiao, Yu Zhou. Accurate and Robust Scene Text Recognition via Adversarial Training. Accepted by ICASSP, 2024.
-* Gangyan Zeng, Yuan Zhang, Yu Zhou, **Xiaomeng Yang**, Ning Jiang, Guoqing Zhao, Weiping Wang, Xu-Cheng Yin. Beyond OCR+VQA: Towards End-to-End Reading and Reasoning for Robust and Accurate TextVQA. In Pattern Recognition, 2023.
-* Gangyan Zeng, Yuan Zhang, Yu Zhou, **Xiaomeng Yang**. Beyond OCR+VQA: Involving OCR into the Flow for Robust and Accurate TextVQA. Accepted by ACM MM, 2021.
-* Gangyan Zeng, Yuan Zhang, Yu Zhou, **Xiaomeng Yang**. A Cost-Efficient Framework for Scene Text Detection in the Wild. Accepted by PRICAI, 2021.
-* Yucheng Jin, **Xiaomeng Yang**, Chengting Yu, Liangjing Yang. Educational Data Mining: Discovering Principal Factors for Better Academic Performance. Accepted by BDET, 2021.
+* **Xiaomeng Yang**∗, Lei Lu∗, Qihui Fan, Changdi Yang, Juyi Lin, Yanzhi Wang, Xuan Zhang, Shangqian Gao. ALTER: All-in-One Layer Pruning and Temporal Expert Routing for Efficient Diffusion Generation. In NeurIPS, 2025. [[Paper](https://openreview.net/pdf?id=021PIPyOU1)] [[Code](https://github.com/Xiaomeng-Yang/ALTER)]
+* **Xiaomeng Yang**, Zhi Qiao, Yu Zhou. IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition. Accepted by IJCV, 2025. [[Paper](https://link.springer.com/article/10.1007/s11263-025-02443-1)] [[Code](https://github.com/Xiaomeng-Yang/IPAD)]
+* **Xiaomeng Yang**, Zhi Qiao, Jin Wei, Dongbao Yang, Yu Zhou. Masked and Permuted Implicit Context Learning for Scene Text Recognition. In IEEE Signal Processing Letters, 2024. [[Paper](https://ieeexplore.ieee.org/document/10479970)] [[Code](https://github.com/Xiaomeng-Yang/MPSTR)]
+* **Xiaomeng Yang**, Dongbao Yang, Zhi Qiao, Yu Zhou. Accurate and Robust Scene Text Recognition via Adversarial Training. Accepted by ICASSP, 2024. [[Paper](https://ieeexplore.ieee.org/document/10445827)] [[Code](https://github.com/Xiaomeng-Yang/Adv_train-STR)]
 
 Reseach Experience
 ======
