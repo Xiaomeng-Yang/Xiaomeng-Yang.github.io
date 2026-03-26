@@ -19,8 +19,11 @@ Education
 
 Publications & Manuscripts
 ======
+* **Xiaomeng Yang**∗, Lei Lu∗, Qihui Fan, Changdi Yang, Juyi Lin, Yanzhi Wang, Xuan Zhang, Shangqian Gao. ALTER: All-in-One Layer Pruning and Temporal Expert Routing for Efficient Diffusion Generation. In NeurIPS, 2025.
+* **Xiaomeng Yang**, Jian Gao, Yanzhi Wang, Xuan Zhang. ZEROSIM: Zero-Shot Analog Circuit Evaluation with Unified Transformer Embeddings. In ICCAD, 2025
 * **Xiaomeng Yang**, Zhi Qiao, Yu Zhou. IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition. Accepted by IJCV, 2025.
 * **Xiaomeng Yang**, Zhi Qiao, Jin Wei, Dongbao Yang, Yu Zhou. Masked and Permuted Implicit Context Learning for Scene Text Recognition. In IEEE Signal Processing Letters, 2024.
+* Yifei Zhang, Chang Liu, Jin Wei, **Xiaomeng Yang**, Yu Zhou, Can Ma, Xiangyang Ji. Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition. Accepted by CVPR, 2025.
 * **Xiaomeng Yang**, Dongbao Yang, Zhi Qiao, Yu Zhou. Accurate and Robust Scene Text Recognition via Adversarial Training. Accepted by ICASSP, 2024.
 * Gangyan Zeng, Yuan Zhang, Yu Zhou, **Xiaomeng Yang**, Ning Jiang, Guoqing Zhao, Weiping Wang, Xu-Cheng Yin. Beyond OCR+VQA: Towards End-to-End Reading and Reasoning for Robust and Accurate TextVQA. In Pattern Recognition, 2023.
 * Gangyan Zeng, Yuan Zhang, Yu Zhou, **Xiaomeng Yang**. Beyond OCR+VQA: Involving OCR into the Flow for Robust and Accurate TextVQA. Accepted by ACM MM, 2021.
@@ -29,6 +32,12 @@ Publications & Manuscripts
 
 Reseach Experience
 ======
+* **Diffusion Models Acceleration Based on Dynamic Model Sparsity**
+  * <p style="text-align:left;"><em>NEU | Research Assistant, Advisor: Prof. Yanzhi Wang</em><span style="float:right;">Nov. 2024 – May. 2025</span></p>
+
+* **AI for Analog Circuit Evaluation**
+  * <p style="text-align:left;"><em>NEU | Research Assistant, Advisor: Prof. Xuan Zhang</em><span style="float:right;">Nov. 2024 – Apr. 2025</span></p>
+
 * **Linguistic Information Enhanced Scene Text Recognition**
   * <p style="text-align:left;"><em>UCAS | Research Assistant, Advisor: Prof. Yu Zhou</em><span style="float:right;">Jun. 2022 – Apr. 2024</span></p>
   * <p style="text-align:left;"><em>Tomorrow Advancing Life | Research Internship, Advisor: Zhi Qiao</em><span style="float:right;">Jun. 2022 – Apr. 2024</span></p>
