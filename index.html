@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Xiaomeng Yang</title>
+  <script>
+    // Set theme before paint to avoid a flash of the wrong mode.
+    (function () {
+      try {
+        var t = localStorage.getItem('theme');
+        if (!t) t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        document.documentElement.setAttribute('data-theme', t);
+      } catch (e) {}
+    })();
+  </script>
+  <meta name="description" content="Xiaomeng Yang — PhD candidate at Northeastern University working on multimodal AI and generative models.">
+  <link rel="icon" href="images/xmy_profile.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/home.css">
+</head>
+<body>
+<nav class="topnav">
+  <div class="topnav-inner">
+    <a href="#about" class="nav-brand">Xiaomeng Yang</a>
+    <div class="nav-links">
+      <a href="#about">About</a>
+      <a href="#news">News</a>
+      <a href="#publications">Publications</a>
+      <a href="#experience">Experience</a>
+      <a href="#education">Education</a>
+    </div>
+    <button id="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode"></button>
+  </div>
+</nav>
+<div class="wrap">
+
+  <!-- ================= HEADER ================= -->
+  <header class="hero" id="about">
+    <div class="hero-text">
+      <h1>Xiaomeng Yang <span class="cn">杨晓萌</span></h1>
+      <p class="role">Ph.D. Candidate in Computer Engineering</p>
+      <p class="affil">Northeastern University · Boston, MA</p>
+
+      <nav class="links">
+        <a href="mailto:yang.xiaome@northeastern.edu">
+          <svg viewBox="0 0 24 24"><path d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm0 4-8 5-8-5V6l8 5 8-5z"/></svg>
+          Email
+        </a>
+        <a href="https://scholar.google.com/citations?user=zVGWO5MAAAAJ&hl=en" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24"><path d="M12 3 1 9l11 6 9-4.91V17h2V9zM5 13.18v4L12 21l7-3.82v-4L12 17z"/></svg>
+          Google Scholar
+        </a>
+        <a href="https://github.com/Xiaomeng-Yang" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24"><path d="M12 2A10 10 0 0 0 2 12a10 10 0 0 0 6.84 9.49c.5.09.68-.22.68-.48v-1.7c-2.78.6-3.37-1.34-3.37-1.34-.45-1.16-1.11-1.47-1.11-1.47-.9-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.9 1.53 2.34 1.09 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.65 0 0 .84-.27 2.75 1.02a9.5 9.5 0 0 1 5 0c1.9-1.29 2.74-1.02 2.74-1.02.55 1.38.2 2.4.1 2.65.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.68-4.57 4.93.36.31.68.92.68 1.85v2.74c0 .27.18.58.69.48A10 10 0 0 0 22 12 10 10 0 0 0 12 2z"/></svg>
+          GitHub
+        </a>
+        <a href="files/CV_Xiaomeng-Yang.pdf" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8zm2 16H8v-2h8zm0-4H8v-2h8zm-3-5V3.5L18.5 9z"/></svg>
+          CV
+        </a>
+      </nav>
+    </div>
+    <img class="hero-photo" src="images/xmy_profile.jpg" alt="Xiaomeng Yang">
+  </header>
+
+  <!-- ================= ABOUT ================= -->
+  <section class="about">
+    <p>I am a Ph.D. candidate in Computer Engineering at <strong>Northeastern University</strong>, co-advised by
+      <a href="https://coe.northeastern.edu/people/wang-yanzhi/" target="_blank" rel="noopener">Prof. Yanzhi Wang</a> and
+      <a href="https://coe.northeastern.edu/people/zhang-xuan-silvia/" target="_blank" rel="noopener">Prof. Xuan Zhang</a>.
+      My research centers on <strong>generative models</strong> and <strong>multimodal AI</strong> — with a focus on
+      video generation, diffusion models, and building efficient, deployable generative systems for real-world scientific
+      and engineering applications.</p>
+    <p>Previously, I earned my master's degree at the University of Chinese Academy of Sciences, where I worked with
+      <a href="https://intimelab.github.io/" target="_blank" rel="noopener">Prof. Yu Zhou</a> on visual text analysis
+      and understanding. I hold dual bachelor's degrees in Computer Engineering from the University of Illinois
+      Urbana-Champaign and Zhejiang University.</p>
+    <p>I'm always glad to connect about research ideas or potential collaborations — feel free to reach out by
+      <a href="mailto:yang.xiaome@northeastern.edu">email</a>.</p>
+  </section>
+
+  <!-- ================= NEWS ================= -->
+  <!-- Edit these entries freely; dates are YYYY-MM shown on the left. -->
+  <h2 class="section" id="news">News</h2>
+  <div class="news">
+    <ul>
+      <li><span class="date">2026.07</span><span>Our work <a href="https://xiaomeng-yang.github.io/Prompt2Effect/" target="_blank" rel="noopener"><em>Prompt2Effect</em></a> was accepted to <strong>ECCV 2026</strong>.</span></li>
+      <li><span class="date">2025.11</span><span>Passed the Ph.D. qualifying exam.</span></li>
+      <li><span class="date">2025.09</span><span>Our work <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/baca5eb9e789dbfc45446715bc9f692e-Abstract-Conference.html" target="_blank" rel="noopener"><em>ALTER</em></a> was accepted to <strong>NeurIPS 2025</strong>.</span></li>
+      <li><span class="date">2025.09</span><span>Started as a Research Intern at <strong>Snap Inc.</strong></span></li>
+    </ul>
+  </div>
+
+  <!-- ================= PUBLICATIONS ================= -->
+  <h2 class="section" id="publications">Selected Publications</h2>
+
+  <!-- Prompt2Effect -->
+  <div class="pub">
+    <img class="pub-thumb" src="images/publications/prompt2effect.png" alt="">
+    <div class="pub-body">
+      <a class="pub-title" href="https://xiaomeng-yang.github.io/Prompt2Effect/" target="_blank" rel="noopener">Prompt2Effect: Training-Free Image-to-Video Model Specialization via LoRA Generation</a>
+      <p class="pub-authors"><span class="me">Xiaomeng Yang</span>, Yanyu Li, Gordon Guocheng Qian, Ivan Skorokhodov, Viacheslav Ivanov, Avalon Vinella, Xuan Zhang, Yanzhi Wang, Sergey Tulyakov, Anil Kag</p>
+      <p class="pub-venue">European Conference on Computer Vision (<b>ECCV</b>), 2026</p>
+      <p class="pub-desc">A training-free framework that specializes image-to-video diffusion models via generated LoRAs for controllable video effects.</p>
+      <p class="pub-links">
+        <a href="https://arxiv.org/abs/2606.13971" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8zm2 16H8v-2h8zm0-4H8v-2h8zm-3-5V3.5L18.5 9z"/></svg>Paper</a>
+        <a href="https://xiaomeng-yang.github.io/Prompt2Effect/" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm6.9 6h-2.95a15.7 15.7 0 0 0-1.38-3.56A8.03 8.03 0 0 1 18.9 8zM12 4.04c.83 1.2 1.48 2.53 1.91 3.96h-3.82c.43-1.43 1.08-2.76 1.91-3.96zM4.26 14a7.96 7.96 0 0 1 0-4h3.38a16.6 16.6 0 0 0-.14 2c0 .68.05 1.35.14 2H4.26zm.84 2h2.95a15.7 15.7 0 0 0 1.38 3.56A8.03 8.03 0 0 1 5.1 16zm2.95-8H5.1a8.03 8.03 0 0 1 4.33-3.56A15.7 15.7 0 0 0 8.05 8zM12 19.96c-.83-1.2-1.48-2.53-1.91-3.96h3.82A13.68 13.68 0 0 1 12 19.96zM14.34 14H9.66a14.8 14.8 0 0 1-.16-2c0-.68.06-1.35.16-2h4.68c.1.65.16 1.32.16 2s-.06 1.35-.16 2zm.25 5.56A15.7 15.7 0 0 0 15.95 16h2.95a8.03 8.03 0 0 1-4.31 3.56zM16.36 14c.09-.65.14-1.32.14-2s-.05-1.35-.14-2h3.38a7.96 7.96 0 0 1 0 4h-3.38z"/></svg>Project</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- ALTER -->
+  <div class="pub">
+    <img class="pub-thumb" src="images/publications/alter.png" alt="">
+    <div class="pub-body">
+      <a class="pub-title" href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/baca5eb9e789dbfc45446715bc9f692e-Abstract-Conference.html" target="_blank" rel="noopener">ALTER: All-in-one Layer Pruning and Temporal Expert Routing for Efficient Diffusion Generation</a>
+      <p class="pub-authors"><span class="me">Xiaomeng Yang</span>, Lei Lu, Qihui Fan, Changdi Yang, Juyi Lin, Yanzhi Wang, Xuan Zhang, Shangqian Gao</p>
+      <p class="pub-venue">Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2025</p>
+      <p class="pub-desc">Combines all-in-one layer pruning with temporal expert routing to accelerate diffusion-based generation.</p>
+      <p class="pub-links">
+        <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/baca5eb9e789dbfc45446715bc9f692e-Abstract-Conference.html" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8zm2 16H8v-2h8zm0-4H8v-2h8zm-3-5V3.5L18.5 9z"/></svg>Paper</a>
+        <a href="https://github.com/Xiaomeng-Yang/ALTER" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M9.4 16.6 4.8 12l4.6-4.6L8 6l-6 6 6 6zm5.2 0L19.2 12l-4.6-4.6L16 6l6 6-6 6z"/></svg>Code</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- IPAD -->
+  <div class="pub">
+    <img class="pub-thumb" src="images/publications/ipad.png" alt="">
+    <div class="pub-body">
+      <a class="pub-title" href="https://link.springer.com/article/10.1007/s11263-025-02443-1" target="_blank" rel="noopener">IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition</a>
+      <p class="pub-authors"><span class="me">Xiaomeng Yang</span>, Zhi Qiao, Yu Zhou</p>
+      <p class="pub-venue">International Journal of Computer Vision (<b>IJCV</b>), 2025</p>
+      <p class="pub-desc">An iterative, parallel, and diffusion-based network for accurate and efficient scene text recognition.</p>
+      <p class="pub-links">
+        <a href="https://link.springer.com/article/10.1007/s11263-025-02443-1" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8zm2 16H8v-2h8zm0-4H8v-2h8zm-3-5V3.5L18.5 9z"/></svg>Paper</a>
+        <a href="https://github.com/Xiaomeng-Yang/IPAD" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M9.4 16.6 4.8 12l4.6-4.6L8 6l-6 6 6 6zm5.2 0L19.2 12l-4.6-4.6L16 6l6 6-6 6z"/></svg>Code</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- ZeroSim -->
+  <div class="pub">
+    <img class="pub-thumb" src="images/publications/zerosim.png" alt="">
+    <div class="pub-body">
+      <a class="pub-title" href="https://ieeexplore.ieee.org/abstract/document/11240890" target="_blank" rel="noopener">ZeroSim: Zero-Shot Analog Circuit Evaluation with Unified Transformer Embeddings</a>
+      <p class="pub-authors"><span class="me">Xiaomeng Yang</span>, Jian Gao, Yanzhi Wang, Xuan Zhang</p>
+      <p class="pub-venue">International Conference on Computer-Aided Design (<b>ICCAD</b>), 2025</p>
+      <p class="pub-desc">Zero-shot analog circuit performance evaluation using unified transformer embeddings.</p>
+      <p class="pub-links">
+        <a href="https://ieeexplore.ieee.org/abstract/document/11240890" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8zm2 16H8v-2h8zm0-4H8v-2h8zm-3-5V3.5L18.5 9z"/></svg>Paper</a>
+        <a href="https://github.com/xz-group/ZeroSim/" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M9.4 16.6 4.8 12l4.6-4.6L8 6l-6 6 6 6zm5.2 0L19.2 12l-4.6-4.6L16 6l6 6-6 6z"/></svg>Code</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- MPSTR -->
+  <div class="pub">
+    <img class="pub-thumb" src="images/publications/mpic.png" alt="">
+    <div class="pub-body">
+      <a class="pub-title" href="https://ieeexplore.ieee.org/abstract/document/10479970" target="_blank" rel="noopener">Masked and Permuted Implicit Context Learning for Scene Text Recognition</a>
+      <p class="pub-authors"><span class="me">Xiaomeng Yang</span>, Zhi Qiao, Jin Wei, Dongbao Yang, Yu Zhou</p>
+      <p class="pub-venue">IEEE Signal Processing Letters (<b>SPL</b>), 2024</p>
+      <p class="pub-desc">Unifies permuted and masked language modeling within a single decoder for robust scene text recognition.</p>
+      <p class="pub-links">
+        <a href="https://ieeexplore.ieee.org/abstract/document/10479970" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8zm2 16H8v-2h8zm0-4H8v-2h8zm-3-5V3.5L18.5 9z"/></svg>Paper</a>
+        <a href="https://github.com/Xiaomeng-Yang/MPSTR" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M9.4 16.6 4.8 12l4.6-4.6L8 6l-6 6 6 6zm5.2 0L19.2 12l-4.6-4.6L16 6l6 6-6 6z"/></svg>Code</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- Adversarial training STR -->
+  <div class="pub">
+    <img class="pub-thumb" src="images/publications/at-str.png" alt="">
+    <div class="pub-body">
+      <a class="pub-title" href="https://ieeexplore.ieee.org/abstract/document/10445827" target="_blank" rel="noopener">Accurate and Robust Scene Text Recognition via Adversarial Training</a>
+      <p class="pub-authors"><span class="me">Xiaomeng Yang</span>, Dongbao Yang, Zhi Qiao, Yu Zhou</p>
+      <p class="pub-venue">IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), 2024</p>
+      <p class="pub-desc">A regularization-based adversarial training method that improves both the robustness and accuracy of scene text recognition.</p>
+      <p class="pub-links">
+        <a href="https://ieeexplore.ieee.org/abstract/document/10445827" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8zm2 16H8v-2h8zm0-4H8v-2h8zm-3-5V3.5L18.5 9z"/></svg>Paper</a>
+        <a href="https://github.com/Xiaomeng-Yang/Adv_train-STR" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M9.4 16.6 4.8 12l4.6-4.6L8 6l-6 6 6 6zm5.2 0L19.2 12l-4.6-4.6L16 6l6 6-6 6z"/></svg>Code</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- ================= EXPERIENCE ================= -->
+  <h2 class="section" id="experience">Experience</h2>
+  <div class="exp">
+    <img class="exp-logo" src="images/logos/snap.png" alt="Snap Inc.">
+    <div class="exp-body">
+      <p class="exp-role">Research Intern, Creative Vision, Snap Inc.</p>
+      <p class="exp-meta">Sep 2025 – May 2026 · Santa Monica, CA</p>
+      <p class="exp-desc">Worked on efficient image-to-video effects generation.</p>
+    </div>
+  </div>
+  <div class="exp">
+    <img class="exp-logo" src="images/logos/tal.png" alt="TAL Education Group">
+    <div class="exp-body">
+      <p class="exp-role">Research Intern, Tomorrow Advancing Life (TAL)</p>
+      <p class="exp-meta">Nov 2022 – Jun 2024 · Beijing, China</p>
+      <p class="exp-desc">Worked on scene text recognition.</p>
+    </div>
+  </div>
+
+  <!-- ================= EDUCATION ================= -->
+  <h2 class="section" id="education">Education</h2>
+  <div class="entry">
+    <img class="edu-logo" src="images/logos/neu.png" alt="Northeastern University">
+    <div class="what"><span class="place">Northeastern University</span><br>
+      <span class="detail">Ph.D. in Computer Engineering · 2024 – Present</span></div>
+  </div>
+  <div class="entry">
+    <img class="edu-logo" src="images/logos/ucas.png" alt="University of Chinese Academy of Sciences">
+    <div class="what"><span class="place">University of Chinese Academy of Sciences</span><br>
+      <span class="detail">M.S., advised by Prof. Yu Zhou · 2021 – 2024</span></div>
+  </div>
+  <div class="entry">
+    <img class="edu-logo" src="images/logos/uiuc.png" alt="University of Illinois Urbana-Champaign">
+    <div class="what"><span class="place">University of Illinois Urbana-Champaign</span><br>
+      <span class="detail">B.S. in Computer Engineering (dual-degree) · 2017 – 2021</span></div>
+  </div>
+  <div class="entry">
+    <img class="edu-logo" src="images/logos/zju.png" alt="Zhejiang University">
+    <div class="what"><span class="place">Zhejiang University</span><br>
+      <span class="detail">B.S. in Computer Engineering (dual-degree) · 2017 – 2021</span></div>
+  </div>
+
+  <footer>
+    &copy; 2026 Xiaomeng Yang. Built with plain HTML &amp; CSS, hosted on GitHub Pages.
+  </footer>
+
+</div>
+
+<script>
+  (function () {
+    var root = document.documentElement;
+    var btn = document.getElementById('theme-toggle');
+    var moon = '<svg viewBox="0 0 24 24"><path d="M12 3a9 9 0 1 0 9 9c0-.46-.04-.92-.11-1.36a5.39 5.39 0 0 1-7.53-7.53A9.1 9.1 0 0 0 12 3z"/></svg>';
+    var sun = '<svg viewBox="0 0 24 24"><path d="M12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10zm0-5a1 1 0 0 1 1 1v1a1 1 0 1 1-2 0V3a1 1 0 0 1 1-1zm0 17a1 1 0 0 1 1 1v1a1 1 0 1 1-2 0v-1a1 1 0 0 1 1-1zM4.22 4.22a1 1 0 0 1 1.42 0l.7.7A1 1 0 1 1 4.93 6.34l-.71-.7a1 1 0 0 1 0-1.42zm12.02 12.02a1 1 0 0 1 1.42 0l.7.7a1 1 0 0 1-1.42 1.42l-.7-.7a1 1 0 0 1 0-1.42zM2 12a1 1 0 0 1 1-1h1a1 1 0 1 1 0 2H3a1 1 0 0 1-1-1zm17 0a1 1 0 0 1 1-1h1a1 1 0 1 1 0 2h-1a1 1 0 0 1-1-1zM4.22 19.78a1 1 0 0 1 0-1.42l.7-.7a1 1 0 1 1 1.42 1.42l-.7.7a1 1 0 0 1-1.42 0zm12.02-12.02a1 1 0 0 1 0-1.42l.7-.7a1 1 0 1 1 1.42 1.42l-.7.7a1 1 0 0 1-1.42 0z"/></svg>';
+    function render() {
+      btn.innerHTML = root.getAttribute('data-theme') === 'dark' ? sun : moon;
+    }
+    render();
+    btn.addEventListener('click', function () {
+      var next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      root.setAttribute('data-theme', next);
+      try { localStorage.setItem('theme', next); } catch (e) {}
+      render();
+    });
+    // Follow system changes unless the user has made an explicit choice.
+    try {
+      matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function (e) {
+        if (!localStorage.getItem('theme')) {
+          root.setAttribute('data-theme', e.matches ? 'dark' : 'light');
+          render();
+        }
+      });
+    } catch (e) {}
+  })();
+</script>
+</body>
+</html>
