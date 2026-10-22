@@ -212,7 +212,7 @@ header.hero {
   display: inline-flex;
   align-items: center;
   gap: 7px;
-  padding: 7px 15px;
+  padding: 7px 12px;
   font-size: 0.9rem;
   font-weight: 500;
   color: var(--text);
@@ -370,6 +370,17 @@ footer {
   font-size: 0.85rem;
   text-align: center;
 }
+
+/* MapMyVisitors widget; it sizes itself to this box's width */
+.visitor-map {
+  width: 300px;
+  max-width: 100%;
+  margin: 0 auto 18px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.visitor-map:empty { display: none; }
+.visitor-map a:hover { text-decoration: none; }
 
 /* ============ Responsive ============ */
 @media (max-width: 640px) {
